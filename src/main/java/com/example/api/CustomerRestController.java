@@ -14,6 +14,7 @@ import org.springframework.web.util.UriComponentsBuilder;
 import java.net.URI;
 
 @RestController
+@CrossOrigin(origins = "http://localhost:8081")
 @RequestMapping("api/customers")
 public class CustomerRestController {
     @Autowired

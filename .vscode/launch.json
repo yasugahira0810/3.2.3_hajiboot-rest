@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HajibootRestApplication",
+            "request": "launch",
+            "mainClass": "com.example.HajibootRestApplication",
+            "projectName": "hajiboot-rest"
+        }
+    ]
+}
